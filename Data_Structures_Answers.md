@@ -23,7 +23,7 @@ Add your answers to the questions below.
 
 6. What is the space complexity of the provided code in `names.py`?
 
-        O(3n) - O(n).  In the worst case, it must store all the names from both lists and also a list of duplicates that is as long as each of the start lists.  
+        O(3n) -> O(n).  In the worst case, it must store all the names from both lists and also a list of duplicates that is as long as each of the start lists.  
 
 7. What is the runtime complexity of your optimized code in `names.py`?
 
